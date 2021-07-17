@@ -1,0 +1,32 @@
+/***** HOME ****/
+
+
+
+/**** ABOUT US ****/
+
+
+@media only screen and (max-width: 600px) {
+
+	.top1 h1{
+		margin-top: 10px!important;
+         color: black!important;
+	}
+  p .dash, #h1 {
+             font-size: 20px;
+          }
+   .mission, .mission-text
+   {
+   	margin-top: 10px;
+   }
+   .sss
+   {
+   	 
+   	padding-bottom: -10px;
+   }
+
+   .hhh
+   {
+   	 margin-bottom: 15px;
+   }
+
+}
